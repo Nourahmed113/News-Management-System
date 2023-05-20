@@ -1,0 +1,89 @@
+Category :tech
+Article ID :1
+Headline: Progress on new internet domains
+Author: Dr. mariam hassanien
+Date: 1/4/2018
+Body: By early 2005 the net could have two new domain names.
+
+The .post and .travel net domains have been given preliminary approval by the net's administrative body. The names are just two of a total of 10 proposed domains that are being considered by the Internet Corporation for Assigned Names and Numbers, Icann. The other proposed names include a domain for pornography, Asia, mobile phones, an anti-spam domain and one for the Catalan language and culture.
+
+The .post domain is backed by the Universal Postal Union that wants to use it as the online marker for every type of postal service and to help co-ordinate the e-commerce efforts of national post offices.
+
+The .travel domain would be used by hotels, travel firms, airlines, tourism offices and would help such organisations distinguish themselves online. It is backed by a New York-based trade group called The Travel Partnership. Icann said its early decision on the two domains was in response to the detailed technical and commercial information the organisations behind the names had submitted. Despite this initial approval, Icann cautioned that there was no guarantee that the domains would actually go into service. At the same time Icann is considering proposals for another eight domains. One that may not win approval is a proposal to set up a .xxx domain for pornographic websites. A similar proposal has been made many times in the past. But Icann has been reluctant to approve it because of the difficulty of making pornographers sign up and use it. In 2000 Icann approved seven other new domains that have had varying degrees of success. Three of the new so-called top level domains were for specific industries or organisations such as .museum and .aero. Others such as .info and .biz were intended to be more generic. In total there are in excess of 200 domain names and the majority of these are for nations. But domains that end in the .com suffix are by far the most numerous.
+
+Rate: 0
+Comment: 
+Category :tech
+Article ID :2
+Headline: Anti-spam laws bite spammer hard
+Author: omar mohamed
+Date: 4/7/2009
+Body: The net's self-declared spam king is seeking bankruptcy protection.
+
+Scott Richter, the man behind OptInRealBig.com and billions of junk mail messages, said lawsuits had forced the company into Chapter 11. OptInRealBig was fighting several legal battles, most notably against Microsoft, which is pushing for millions of dollars in damages. The company said filing for Chapter 11 would help it try to resolve its legal problems but still keep trading.
+
+Listed as the third biggest spammer in the world by junk mail watchdog Spamhaus, OptInRealBig was sued in December 2003 for sending mail messages that violated anti-spam laws. The lawsuit was brought by Microsoft and New York attorney general Eliot Spitzer who alleged that Mr Richter and his accomplices sent billions of spam messages through 514 compromised net addresses in 35 countries. According to Microsoft the messages were sent via net addresses owned by the Kuwait Ministries of Communication and Finance, several Korean schools, the Seoul Municipal Boramae Hospital, and the Virginia Community College System. Mr Richter settled the attorney general case in July 2004 but the legal fight with Microsoft is continuing. Microsoft is seeking millions in dollars in damages from OptInRealBig under anti-spam laws that impose penalties for every violation. In a statement announcing the desire to seek bankruptcy protection the company said it: "could not continue to contend with legal maneuvers (sic) by a number of companies across the country, including Microsoft, and still run a viable business." In its Chapter 11 filing OptInRealBig claimed it had assets of less than $10m (£5.29m) but debts of more than $50m which included the $46m that Microsoft is seeking via its lawsuit. "The litigation has been a relentless distraction with which to contend," said Steven Richter, legal counsel for OptInRealBig. "But, make no mistake, we do expect to prevail." For its part OptInRealBig describes itself as a premier internet marketing company and said the move to seek Chapter 11 was necessary to let it keep trading while sorting out its legal battles.
+
+Rate: 0
+Comment: 
+Category :tech
+Article ID :3
+Headline: Broadband fuels online expression
+Author: maria essam
+Date: 4/4/2004
+Body: 
+
+Fast web access is encouraging more people to express themselves online, research suggests.
+
+A quarter of broadband users in Britain regularly upload content and have personal sites, according to a report by UK think-tank Demos. It said that having an always-on, fast connection is changing the way people use the internet. More than five million households in the UK have broadband and that number is growing fast.
+
+The Demos report looked at the impact of broadband on people's net habits. It found that more than half of those with broadband logged on to the web before breakfast. One in five even admitted to getting up in the middle of the night to browse the web.
+
+More significantly, argues the report, broadband is encouraging people to take a more active role online. It found that one in five post something on the net everyday, ranging from comments or opinions on sites to uploading photographs. "Broadband is putting the 'me' in media as it shifts power from institutions and into the hands of the individual," said John Craig, co-author of the Demos report. "From self-diagnosis to online education, broadband creates social innovation that moves the debate beyond simple questions of access and speed." The Demos report, entitled Broadband Britain: The End Of Asymmetry?, was commissioned by net provider AOL. "Broadband is moving the perception of the internet as a piece of technology to an integral part of home life in the UK," said Karen Thomson, Chief Executive of AOL UK, "with many people spending time on their computers as automatically as they might switch on the television or radio." According to analysts Nielsen NetRatings, more than 50% of the 22.8 million UK net users regularly accessing the web from home each month are logging on at high speed They spend twice as long online than people on dial-up connections, viewing an average of 1,444 pages per month. The popularity of fast net access is growing, partly fuelled by fierce competition over prices and services.
+
+Rate: 0
+Comment: 
+Category :tech
+Article ID :4
+Headline: Savvy searchers fail to spot ads
+Author: habiba waleed
+Date: 6/8/2006
+Body: Internet search engine users are an odd mix of naive and sophisticated, suggests a report into search habits.
+
+The report by the US Pew Research Center reveals that 87% of searchers usually find what they were looking for when using a search engine. It also shows that few can spot the difference between paid-for results and organic ones. The report reveals that 84% of net users say they regularly use Google, Ask Jeeves, MSN and Yahoo when online.
+
+Almost 50% of those questioned said they would trust search engines much less, if they knew information about who paid for results was being hidden. According to figures gathered by the Pew researchers the average users spends about 43 minutes per month carrying out 34 separate searches and looks at 1.9 webpages for each hunt. A significant chunk of net users, 36%, carry out a search at least weekly and 29% of those asked only look every few weeks. For 44% of those questioned, the information they are looking for is critical to what they are doing and is information they simply have to find.
+
+Search engine users also tend to be very loyal and once they have found a site they feel they can trust tend to stick with it. According to Pew Research 44% of searchers use just a single search engine, 48% use two or three and a small number, 7%, consult more than three sites. Tony Macklin, spokesman for Ask Jeeves, said the results reflected its own research which showed that people use different search engines because the way the sites gather information means they can provide different results for the same query. Despite this liking for search sites half of those questioned said they could get the same information via other routes. A small number, 17%, said they wouldn't really miss search engines if they did not exist. The remaining 33% said they could not live without search sites. More than two-thirds of those questioned, 68%, said they thought that the results they were presented with were a fair and unbiased selection of the information on a topic that can be found on the net. Alongside the growing sophistication of net users is a lack of awareness about paid-for results that many search engines provide alongside lists of websites found by indexing the web. Of those asked, 62% were unaware that someone has paid for some of the results they see when they carry out a search. Only 18% of all searchers say they can tell which results are paid for and which are not. Said the Pew report: "This finding is ironic, since nearly half of all users say they would stop using search engines if they thought engines were not being clear about how they presented paid results." Commenting Mr Macklin said sponsored results must be clearly marked and though they might help with some queries user testing showed that people need to be able to spot the difference.
+
+Rate: 0
+Comment: 
+Category :tech
+Article ID :5
+Headline: TV's future down the phone line
+Author: ahmed ahmed
+Date: 5/7/2016
+Body: Internet TV has been talked about since the start of the web as we know it now.
+
+But any early attempts to do it - the UK's Home Choice started in 1992 - were thwarted by the lack of a fast network. Now that broadband networks are bedding down, and it is becoming essential for millions, the big telcos are keen to start shooting video down the line. In the face of competition from cable companies offering net voice calls, they are keen to be the top IPTV dogs. Software giant Microsoft thinks IPTV - Internet Protocol TV - is the future of television, and it sits neatly with its vision of the "connected entertainment experience". "Telcos have been wanting to do video for a long time," Ed Graczyk, director of marketing for Microsoft IPTV, told the BBC News website. "The challenge has been the broadband network, and the state of technology up until not so long ago did not add up to a feasible solution. "Compression technology was not efficient enough, the net was not good enough. A lot of stars have aligned in the last 18 months to make it a reality."
+
+Last year, he said, was all about deal making and partnering up; shaping the "IPTV ecosystem". This year, those deals will start to play out and more services will come online. "2006 is where it starts ramping up and expanding to other geographies - over time as broadband becomes more prevalent in South America, and other parts of Asia, it will expand," he added. What telcos really want to do is to send the "triple-play" of video, voice, and data down one single line, be it cable or DSL (Digital Subscriber Line). Some are talking about "quadruple play", too, with mobile services added into the mix. It is an emerging new breed of competition for satellite and cable broadcasters and operators. According to technology analysts, TDG Research, there will be 20 million subscribers to IPTV services in under six years.
+
+Key to the appeal of sending TV programmes down the same line as the web data, whenever a viewer wants it, is that it uses the same technology as the internet. It means there is not just a one-way relationship between the viewer and the "broadcaster". This allows for more DVD-like interactivity, limitless storage and broadcast space, bespoke channel "playlists", and thousands of hours of programmes or films at a viewer's fingertips. It potentially lets operators target programmes to smaller, niche or localised audiences, sending films to Bollywood fans for instance, as well as individual devices.
+
+Operators could also send high-definition programmes straight to the viewer, bypassing the need for a special broadcast receiver. Perhaps most compelling - yet some might say insignificant - is instantaneous channel flicking. Currently, there is a delay when you try to do this on satellite, cable or Freeview. With IPTV, the speed is 15 milliseconds. "That gets rounds of applause," according to Mr Graczyk. Microsoft is one of the companies that started thinking about IPTV some time ago. "We believe this will be the way all TV is delivered in the future - but that is several years away," said Mr Graczyk. "As with music, TV has moved to digital formats. "The things software can do to integrate media into devices means a whole new generation of connected entertainment experiences that cross devices from the TV, to the mobile, to the gaming console and so on." The company intends its Microsoft's IPTV Edition software, an end-to-end management and delivery platform, to let telcos to do exactly that, seamlessly. It has netted seven major telcos as customers, representing a potential audience of 25 million existing broadband subscribers. Its deal with US telco SBC was the largest TV software deal to date, said Mr Graczyk.
+
+IPTV is about more than telcos, though. There are several web-based offerings that aim to put control in the hands of the consumer by exploiting the net's power. Jeremy Allaire, chief of Brightcove, told the BBC News website that it would be a flavour of IPTV that was about harnessing the web as a "channel".
+
+"It is not just niches, but about exploiting content not usually viewed," he said. "We are focussed on the owners of video content who have rights to digitally distribute content, and who often see unencumbered distribution. "For them to do it through cable and so on is price-prohibitive," he said. This type of IPTV service might also be a distribution channel for more established publishers who have unique types of content that they cannot offer through cable and satellite operators - history channel archives, for instance. What is a clear sign that IPTV has a future is that Microsoft is not the only player in the field. There are a lot of other "middleware" players providing similar management services as Microsoft, like Myrio and C-Cor. But it will up to the viewer to decide if it really is to be successful.
+
+Rate: 0
+Comment: 
+Category :Tech
+Article ID :6
+Headline: Techooo
+Author: w
+Date: 2023/5/16
+Body: eeeeeeee
+Rate: 0
+Comment: 

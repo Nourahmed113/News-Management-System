@@ -1,0 +1,84 @@
+User : NourAhmed
+Article ID: 1
+Headline: COVID-19 vaccine trials show promising results
+User rating: 3.5
+User Comments: 
+
+Article ID: 2
+Headline: Ethiopia's crop production up 24%
+User rating: 0
+User Comments: 
+
+Article ID: 3
+Headline: Dollar gains on Greenspan speech
+User rating: 5
+User Comments: 
+
+
+
+
+Article ID: 4
+Headline: High fuel prices hit BA's profits
+User rating: 2.5
+User Comments: 
+
+Article ID: 5
+Headline: Hyundai to build new India plant
+User rating: 0
+User Comments: 
+
+
+User : Shahd
+Article ID: 1
+Headline: Progress on new internet domains
+User rating: 5
+User Comments: 
+
+Article ID: 2
+Headline: Anti-spam laws bite spammer hard
+User rating: 3.4
+User Comments: 
+
+Article ID: 3
+Headline: Broadband fuels online expression
+User rating: 0
+User Comments: 
+
+Article ID: 4
+Headline: Savvy searchers fail to spot ads
+User rating: 3.7
+User Comments: 
+
+Article ID: 5
+Headline: TV's future down the phone line
+User rating: 0
+User Comments: 
+
+
+User : Layla
+Article ID: 
+Headline: 
+User rating: 2
+User Comments: 
+
+Article ID: 1
+Headline: Ivanovic seals Canberra victory
+User rating: 0
+User Comments: 
+
+Article ID: 2
+Headline: Safin relieved at Aussie recovery
+User rating: 3
+User Comments: 
+
+Article ID: 4
+Headline: Veteran Martinez wins Thai title
+User rating: 0
+User Comments: 
+
+Article ID: 5
+Headline: Soderling wins tense Milan final
+User rating: 0
+User Comments: 
+
+
