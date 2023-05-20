@@ -1,0 +1,16 @@
+﻿  Admin.cpp
+  Login.cpp
+  News.cpp
+C:\Users\nour\Downloads\Telegram Desktop\NewsMS\NewsMS\NewsMS\News.cpp(87,38): warning C4018: '<': signed/unsigned mismatch
+  NewsController.cpp
+C:\Users\nour\Downloads\Telegram Desktop\NewsMS\NewsMS\NewsMS\NewsController.cpp(185,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nour\Downloads\Telegram Desktop\NewsMS\NewsMS\NewsMS\NewsController.cpp(186,26): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  NewsMS.cpp
+  User.cpp
+C:\Users\nour\Downloads\Telegram Desktop\NewsMS\NewsMS\NewsMS\User.cpp(161,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NewsMS.vcxproj -> C:\Users\nour\Downloads\Telegram Desktop\NewsMS\NewsMS\Debug\NewsMS.exe
